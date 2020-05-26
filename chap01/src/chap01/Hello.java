@@ -2,8 +2,7 @@ package chap01;
 
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println("Hey, my turn!");
-		System.out.println("No, my turn!");
+		System.out.println(Byte.MAX_VALUE);
 	}
 
 }
